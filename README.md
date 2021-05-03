@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoubhPrat17
+- 👋 Hi, I’m Soubhagya Pratik
 - 👀 I’m interested in Webdev,Python,IoT
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
