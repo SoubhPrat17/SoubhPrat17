@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soubhagya Pratik
 - 👀 I’m interested in Webdev,Python,IoT
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Frontend webdev projects
+- 💞️ I’m looking to collaborate on MERN stack projects
 - 📫 email- pratikmercer@gmail.com
 
 <!---
